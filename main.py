@@ -1,3 +1,5 @@
+#Before you start, make a .env file in your folder and type "DISCORD_TOKEN = #token here"
+
 import nextcord
 from nextcord import Interaction, SlashOption
 from nextcord.ext import commands
